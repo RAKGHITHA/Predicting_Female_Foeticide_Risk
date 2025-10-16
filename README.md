@@ -6,9 +6,6 @@ Female Foeticide Risk Analysis and Prediction
 This project analyzes and predicts female foeticide risk levels based on social and demographic indicators such as literacy rate, employment rate, and access to healthcare.
 It uses a Random Forest Classifier to predict the risk level for each district and evaluates the model's performance using accuracy and F1 score.
 
-# Female Foeticide Risk Prediction
-This project predicts the level of female foeticide risk (Low / Medium / High) for districts in India using socio-economic and demographic indicators.  
-
 ## Dataset
 The dataset contains features like literacy rate, poverty index, income, health access, etc.
 
